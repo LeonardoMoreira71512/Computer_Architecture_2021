@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\PI_2021"
+		},
+		{
+			"path": "..\\..\\LP_2021"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"typeinfo": "cpp",
+			"cstdio": "c",
+			"limits": "cpp",
+			"type_traits": "c"
+		}
+	}
+}
